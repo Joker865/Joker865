@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kevin.
+- 👀 I’m interested in backend and front-end development.
+- 🌱 I’m currently learning Information Technology in North-West University.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on email-kmafarafara@gmail.com
